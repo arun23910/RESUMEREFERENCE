@@ -8,7 +8,7 @@ import { FaFacebook, FaLinkedinIn } from "react-icons/fa";
 import { FiDownload } from "react-icons/fi";
 import { FaPlay } from "react-icons/fa";
 import { TypeAnimation } from "react-type-animation";
-import resumePDF from "../../assets/Resume.pdf";
+import resumePDF from "../../assets/arunresume.pdf";
 import { IoLogoWhatsapp } from "react-icons/io";
 import "./hero.css"
 
@@ -24,7 +24,7 @@ const Hero = () => {
               data-aos="fade-up"
               className=" text-5xl font-bold sm:text-[2rem]"
             >
-              Hello, I'm Karthik
+              Hello, I'm ArunKumar
             </h2>
             <TypeAnimation
               data-aos="fade-up"
@@ -49,7 +49,7 @@ const Hero = () => {
           </div>
           <div data-aos="fade-up" className="buttons flex gap-5">
             <a
-              href="https://www.linkedin.com/in/karthik-r-281072250"
+              href="https://www.linkedin.com/in/arun-kumar-1ab89527a/"
               className=" bg-black text-[1rem] text-white px-10 py-2 sm:px-8 rounded-lg font-bold  hover:text-yellow-500"
             >
               <span> Hire Me</span>
@@ -77,25 +77,25 @@ const Hero = () => {
                 </a> */}
               </li>
               <li>
-                <a href="https://www.linkedin.com/in/karthik-r-281072250">
+                <a href="https://www.linkedin.com/in/arun-kumar-1ab89527a/">
                   {" "}
                   <FaLinkedinIn className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125 " />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://instagram.com/pirate_karthik046?igshid=MzRlODBiNWFlZA==">
+                <a href="3">
                   {" "}
                   <AiFillInstagram className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://www.facebook.com/profile.php?id=100008177468331">
+                <a href="#">
                   {" "}
                   <FaFacebook className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
               </li>
               <li>
-                <a href="https://twitter.com/NsKarth046?t=O2GdrzAKvgF80qciGm7Xhg&s=09">
+                <a href="#">
                   {" "}
                   <AiFillTwitterCircle className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
@@ -107,7 +107,7 @@ const Hero = () => {
                 </a>
               </li> */}
               <li>
-                <a href="https://wa.me/919025516538">
+                <a href="https://wa.me/918675036284">
                   {" "}
                   <IoLogoWhatsapp className=" h-[1.8rem] w-[1.8rem] text-xl hover:scale-125  " />{" "}
                 </a>
@@ -120,7 +120,7 @@ const Hero = () => {
             <img
             data-aos="fade-up"
               className=" h-[90%]  w-full object-cover md:h-[95%] md:m-auto sm:m-0"
-              src={require('../../assets/image.jpg')}
+              src={require('../../assets/profile.jpg')}
               // src={mine}
               alt="mine"
             />

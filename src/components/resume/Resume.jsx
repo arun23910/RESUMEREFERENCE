@@ -88,7 +88,7 @@ Implemented user authentication and authorization systems to protect sensitive u
                 KGIT Services, Bangalore
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                Apr 2022 - June 2023
+                Apr 2020 - June 2023
                 </span>
                 <p className=" text-[.9rem] text-justify break-words text-gray-500">
                 Created script for extracting the data from unstructured document such as pdf and converting them to csv or excel with Regular expressions and pandas in python.Created API using Django.Experience in writing CSS Selectors and XPATH expressions to identify web elements.Developed Automation for browser for scrapping the data from a website store that in Database.Worked in developing the screens for delete, Edit, Enable, Disable and Impersonate Users in web application with Django  Managed code versioning with Github and deployment to staging and production servers  Worked in various python IDE’s Such as Pycharm,Vscode,jupyter  Generating JSON data and storing it in NOSQL database (MongoDB).  Experience in using version control system (GIT) and Jira Tool.
@@ -114,20 +114,7 @@ setviewmore(true)
                 <div className="c2 w-[12px] h-[12px] rounded-full bg-white border-2 border-yellow-500"></div>
               </div>
             
-              <div className=" flex flex-col gap-1 sm:gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
-                <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                Service Delivery Executive
-                </h1>
-                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                Neeyamo Enterprise Solutions Pvt,Ltd,Madurai
-                </span>
-                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                Jul 2020 -  Apr 2022
-                </span>
-                <p className=" text-[.9rem] text-justify break-words text-gray-500">
-                Neeyamo, is a leading global HRO services such as HR technology, HR operations, HR process consulting services and solutions provider, is committed to helping the companies worldwide build stronger businesses.  Presently, Neeyamo serves clients spread across six continents and covers the entire hire-to-retire cycle.  Provide technical assistance in the process of Background Verification.  Manage Clients and Client requirements.  Responsible for Quality Control, Production and Timely Completion of task.  Coordinating with team and handling mails.
-                </p>
-              </div>
+              
               
             </div>
 
@@ -172,13 +159,13 @@ setviewmore(true)
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                 <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Sc, Computer Science
+                  B.Tech, Computer Science
                 </h1>
                 <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                Yadava  College 
+                Pondicherry Engineering  College 
                 </span>
                 <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2016 - Year 2019
+                  Year 2012 - Year 2016
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
                 That's a fantastic skill set you have as an graduate student Your proficiency in web development technologies like HTML, CSS, JavaScript, and React JS, coupled with your backend skills in python,flask,django,Node.js,API,and MongoDB,database in mysql make you well-rounded in both front-end and back-end development and database. Moreover,your problem-solving capabilities using data structures and algorithms demonstrate a strong foundation in computer science fundamentals.
@@ -196,15 +183,7 @@ setviewmore(true)
               </div>
               {/* design */}
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
-                {/* <h1 className="text-[1.4rem] font-semibold sm:text-xl">
-                  B.Sc, Computer Science
-                </h1>
-                <span className=" text-[.9rem] font-semibold text-gray-500 sm:text-base">
-                Yadava  College 
-                </span>
-                <span className=" text-[.9rem] font-semibold text-yellow-500 sm:text-base">
-                  Year 2016 - Year 2019
-                </span> */}
+               
                 <p className=" text-[.9rem] text-justify text-gray-500">
                 This combination of skills is highly valuable in the tech industry, and you're well-equipped to undertake a variety of web development projects, both on the client-side and server-side. You could consider building full-stack web applications, diving into more advanced React patterns and technologies, exploring different database systems, and contributing to open-source projects to further enhance your skills and gain practical experience.
                 </p>

@@ -15,7 +15,7 @@ const Footer = () => {
         <a 
           data-aos="fade-up" data-aos-duration="1400"
 
-            href="https://instagram.com/pirate_karthik046?igshid=MzRlODBiNWFlZA="
+            href="#"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <FaLinkedinIn className=" text-white text-3xl hover:scale-125 cursor-pointer" />
@@ -24,7 +24,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1000"
 
-            href="https://t.me/Ns_karthik046"
+            href="https://t.me/arunsuel"
             className="box font-medium text-white   flex items-center justify-center flex-col"
           >
             <FaTelegramPlane className=" text-white text-3xl hover:scale-125 cursor-pointer" />
@@ -33,7 +33,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1200"
 
-            href="https://wa.me/919025516538"
+            href="https://wa.me/918675036284"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <IoLogoWhatsapp className=" text-white text-3xl hover:scale-125 cursor-pointer" />
@@ -42,7 +42,7 @@ const Footer = () => {
           <a 
           data-aos="fade-up" data-aos-duration="1400"
 
-            href="https://instagram.com/pirate_karthik046?igshid=MzRlODBiNWFlZA="
+            href="#"
             className="box font-medium text-white  flex items-center justify-center flex-col"
           >
             <RiInstagramFill className=" text-white text-3xl hover:scale-125 cursor-pointer" />
@@ -50,7 +50,7 @@ const Footer = () => {
           </a>
         </div>
         <div className=" text-white sm:text-[12px]">
-      <span>© Copyright 2023. Made by Karthik</span>
+      <span>© Copyright 2023. Made by Arun</span>
           {/* <a href="#"></a> */}
         </div>
       </div>
