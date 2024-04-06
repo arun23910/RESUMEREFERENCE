@@ -168,8 +168,7 @@ setviewmore(true)
                   Year 2012 - Year 2016
                 </span>
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                That's a fantastic skill set you have as an graduate student Your proficiency in web development technologies like HTML, CSS, JavaScript, and React JS, coupled with your backend skills in python,flask,django,Node.js,API,and MongoDB,database in mysql make you well-rounded in both front-end and back-end development and database. Moreover,your problem-solving capabilities using data structures and algorithms demonstrate a strong foundation in computer science fundamentals.
-                </p>
+                As a graduate student, I have developed a diverse and valuable skill set. I possess proficiency in various web development technologies, including HTML, CSS, JavaScript, and React JS, which enables me to excel on the front-end of web development. Additionally, I have strong backend skills, encompassing Python, Flask, Django, Node.js, API development, and MongoDB. My experience extends to database management using MySQL, making me well-versed in the complete web development stack. Furthermore, my problem-solving abilities, rooted in a solid understanding of data structures and algorithms, demonstrate a robust foundation in computer science fundamentals. This combination of skills positions me as a versatile developer capable of tackling a wide range of web development projects, both on the client-side and server-side.   </p>
               </div>
             </div>
 {/* new */}
@@ -185,7 +184,7 @@ setviewmore(true)
               <div className=" flex flex-col gap-1 border-2 border-yellow-400 shadow-[0px_0px_16px_1px_rgba(0,0,0,0.1)] p-3 rounded-lg">
                
                 <p className=" text-[.9rem] text-justify text-gray-500">
-                This combination of skills is highly valuable in the tech industry, and you're well-equipped to undertake a variety of web development projects, both on the client-side and server-side. You could consider building full-stack web applications, diving into more advanced React patterns and technologies, exploring different database systems, and contributing to open-source projects to further enhance your skills and gain practical experience.
+                In the tech industry, this skill set is highly sought after, and I am well-prepared to take on various web development challenges. I envision creating full-stack web applications, exploring advanced React patterns and technologies, experimenting with different database systems, and actively contributing to open-source projects to continually enhance my expertise and gain hands-on experience.
                 </p>
               </div>
             </div>
